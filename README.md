@@ -1,39 +1,43 @@
 ---
 layout: home
-title: Just the Class
+title: Teaching and Learning with Technology
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: CEP-416: Teaching and Learning with Technology
 ---
 
-# Just the Class
+# Teaching and Learning with Technology
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+In CEP416, we will explore classroom technology integration. The goal of this course is to help you learn and reflect on how to teach with technology. Technology changes over time, and policies governing its use in schools tend to vary. As a result, this course focuses on pedagogical skills that you will be able to apply to multiple educational contexts; you will have many hands-on opportunities to evaluate and use popular classroom technologies. You will complete CEP416 with a better understanding of how to implement technology in your classroom; over the course of the semester you will develop an electronic Web Portfolio showcasing your growing skills and knowledge in this area.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+## What to Expect
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+### Required Texts
+  There is no required text. All readings and videos will be provided. 
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+  Self-Assigned Readings. Students are expected to independently find and read texts (articles, books, websites, other media) related to course topics.
 
-## Getting Started
+### Schedule and Organization	
+  The class is organized into weekly activities and assignments. 
 
-Getting started with Just the Class is simple.
+  The week begins on Monday, 8:00 am and ends Sunday, 11:59 pm. 
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+  You should check the weekly assignment every Monday. 
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+  You should not wait until the mid-week or weekend to begin your assignments.  Although we have due dates (see below), we recommend the following routine: 
 
-### Local development environment
+* Monday - review overview, begin readings
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+* Tuesday - continue readings, work on assignments
+
+* Wednesday - complete readings
+
+* Thursday - post to video discussion, if assigned
+
+* Friday - turn in assignments
+
+* Saturday & Sunday - you're free!
+
+Due dates:
