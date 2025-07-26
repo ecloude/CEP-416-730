@@ -16,7 +16,7 @@
 title: Teaching and Learning with Technology
 tagline: Fall 2025
 author: Elizabeth Cloude
-baseurl: 'https://CEP-416.info'
+baseurl: '/just-the-class'
 url: 'https://CEP-416.info' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -27,8 +27,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
+  Elizabeth Cloude:
     - 'https://CEP-416.info'
+  Just the Class on GitHub:
+    - 'https://github.com/CEP-416/just-the-class'
 footer_content:
 
 # Collections for website data
