@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Teaching and Learning with Technology
+title: Just-the-Class
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: CEP-416: Teaching and Learning with Technology
+  name: Just-the-Class
 ---
 
 # Teaching and Learning with Technology
