@@ -17,7 +17,7 @@ title: Teaching and Learning with Technology
 tagline: Fall 2025
 author: Elizabeth Cloude
 baseurl: '/CEP-416-730'
-url: 'https://cep416.info' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://ecloude.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -28,9 +28,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Elizabeth Cloude:
-    - 'https://cep416.info'
+    - 'https://ecloude.github.io'
   Just the Class on GitHub:
-    - 'https://github.com/cep416/just-the-class'
+    - 'https://ecloude.github.io/CEP-416-730'
 footer_content:
 
 # Collections for website data
